@@ -8,22 +8,22 @@ This template repository is the starter project for Programming 2 Lab 4. Written
 
 ![](Q1.jpg)
 
-Example 1:
+   Example 1:
 
-Input: `[1, 8, 6, 2, 5, 4, 8, 3, 7]`  
- Output: `49`  
- Explanation: The above vertical lines are represented by array [1, 8, 6, 2, 5, 4, 8, 3, 7]. In this case, the max area of water (blue section) the container can contain is 49.
+   Input: `[1, 8, 6, 2, 5, 4, 8, 3, 7]`  
+   Output: `49`  
+   Explanation: The above vertical lines are represented by array [1, 8, 6, 2, 5, 4, 8, 3, 7]. In this case, the max area of water (blue section) the container can contain is 49.
 
-Constraints:
+   Constraints:
 
-n == height.length
-2 <= n <= 105
-0 <= height[i] <= 104
+   n == height.length
+   2 <= n <= 105
+   0 <= height[i] <= 104
 
-Example 2:
+   Example 2:
 
-Input: `[1, 1]`  
- Output: `1`
+   Input: `[1, 1]`  
+   Output: `1`
 
 2. Given an integer accrray nums of length n and an integer target, find three integers in nums such that the sum is closest to target. Return the sum of the three integers. You may assume that each input would have exactly one solution.
 
@@ -38,11 +38,11 @@ Input: `[1, 1]`
    Input: nums = `[0, 0, 0]`, target = `1`
    Output: `0`
 
-Constraints:
+   Constraints:
 
-3 <= nums.length <= 1000
--1000 <= nums[i] <= 1000
--104 <= target <= 104
+   3 <= nums.length <= 1000
+   -1000 <= nums[i] <= 1000
+   -104 <= target <= 104
 
 ### Setup Command
 
