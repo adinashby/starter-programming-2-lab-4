@@ -6,9 +6,9 @@ This template repository is the starter project for Programming 2 Lab 4. Written
 
 1. You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]). Find two lines that together with the x-axis form a container, such that the container contains the most water. Return the maximum amount of water a container can store. Notice that you may not slant the container.
 
-![](Q1.jpg)
+![](Q1.jpg)  
 
-   Example 1:
+   Example 1:  
 
    Input: `[1, 8, 6, 2, 5, 4, 8, 3, 7]`  
    Output: `49`  
